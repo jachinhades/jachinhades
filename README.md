@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jachinhades
 - 📫 How to reach me jachin.qi@gmail.com
 - 😄 FUCK YOU JSUT!
-An ACMer with so many Iron Medal. qwq
+- An ACMer with so many Iron Medal. qwq
 
 
 
