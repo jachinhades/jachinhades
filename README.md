@@ -4,7 +4,7 @@
 - 📫 How to reach me jachin.qi@gmail.com
 - 😄 FUCK YOU JSUT!
 - An ACMer with so many Iron Medals. qwq
-
+- 所有带Lesson_前缀的都是课程资料，欢迎自取
 
 
 <!---
