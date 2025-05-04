@@ -6,7 +6,7 @@
 - 😄 FUCK YOU JSUT!
 - An ACMer with so many Iron Medals. qwq
 - 所有带Lesson_前缀的都是课程资料，欢迎自取
-- 所有带Prepare_前缀都是本人准备面试/考试等自己真理的资料
+- 所有带Prepare_前缀都是本人准备面试/考试等自己整理的资料
 
 <!---
 jachinhades/jachinhades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
