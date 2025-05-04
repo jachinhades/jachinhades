@@ -7,7 +7,7 @@
 - An ACMer with so many Iron Medals. qwq
 - 所有带Lesson_前缀的都是课程资料，欢迎自取
 - 所有带Prepare_前缀都是本人准备面试/考试等自己整理的资料
-
+- Tips: 如果想上传最新文件可以直接commit一个new branch,主播看到后会及时处理
 <!---
 jachinhades/jachinhades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
