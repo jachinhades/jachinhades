@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Hate+You+JSUT!+You+Ruin+My+life.)](https://git.io/typing-svg)
 
-- github我的第二个大脑，外置知识存储库
+- ✨ github我的第二个大脑，外置知识存储库
 - 👋 Hi, I’m @jachinhades
 - 📫 How to reach me jachin.qi@gmail.com
 - 😄 FUCK YOU JSUT!
